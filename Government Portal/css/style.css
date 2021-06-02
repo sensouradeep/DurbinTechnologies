@@ -1,0 +1,26 @@
+* { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Lobster'; }
+  /* Make the image fully responsive */
+  .carousel-inner img {
+    width: 100%;
+    height: 90vh;
+  }
+  .aboutimg{
+  	width: 100%;
+  	height: auto;
+  }
+  .aboutxy{
+  	width: 50px!important;
+  	height: 50px!important;
+  }
+/*  .play-btn{
+  	width: 50px;
+  	position: relative;
+  	top: -50%;
+  	cursor: pointer;
+  	transition: 0.5s;
+  	opacity: 0;
+  }*/
+  .xyz:hover.play-btn
+  {
+  	opacity: 1;
+  }
